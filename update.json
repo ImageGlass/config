@@ -35,7 +35,7 @@
       ]
     },
     "beta": {
-      "version": "9.0.1-beta.0",
+      "version": "9.0.1.0",
       "title": "ImageGlass Kobe 9 Beta 1",
       "description": "Rewritten app with hardware acceleration support.",
       "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.1.0",
