@@ -1,27 +1,43 @@
-
 {
-  "version": 1,
-  "stable_release": {
-    "version": "8.5.1.22",
-    "title": "ImageGlass Kobe 8.5",
-    "description": "",
-    "changelog_url": "https://imageglass.org/release/imageglass-8-5-1-22-34",
-    "downloads": {
-      "ImageGlass_8.5.1.22_x64.msi": "988efe9ec3db11f769240fe7b118b08ee859e973",
-      "ImageGlass_8.5.1.22_x64.zip": "a04de0d9a833c562e2871a1834dabc204d1c76ca",
-      "ImageGlass_8.5.1.22_x86.msi": "be49f886f8f81796bba872e8f0a10fd599f31b09",
-      "ImageGlass_8.5.1.22_x86.zip": "3c9a00bc5c169251021d942f578987d606a43110"
+  "apiVersion": 1,
+  "releases": {
+    "stable": {
+      "version": "8.5.1.22",
+      "title": "ImageGlass Kobe 8.5",
+      "description": "Supports QOI image format, fixes bugs and improves stability.",
+      "changelogUrl": "https://imageglass.org/release/imageglass-8-5-1-22-34",
+      "downloads": {
+        "ImageGlass_8.5.1.22_x64.msi": {
+          "hashCode": "988efe9ec3db11f769240fe7b118b08ee859e973",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.msi"
+        },
+        "ImageGlass_8.5.1.22_x64.zip": {
+          "hashCode": "a04de0d9a833c562e2871a1834dabc204d1c76ca",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.zip"
+        },
+        "ImageGlass_8.5.1.22_x86.msi": {
+          "hashCode": "be49f886f8f81796bba872e8f0a10fd599f31b09",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.msi"
+        },
+        "ImageGlass_8.5.1.22_x86.zip": {
+          "hashCode": "3c9a00bc5c169251021d942f578987d606a43110",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.zip"
+        }
+      },
+      "date": "2022/01/22 15:29:40"
     },
-    "date": "2022/01/22 15:29:40"
-  },
-  "beta": {
-    "version": "9.0.1.0",
-    "title": "ImageGlass Kobe 9 Beta 1",
-    "description": "",
-    "changelog_url": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.1.0",
-    "downloads": {
-      "ImageGlass_9.0.1.0_beta1_x64.zip": "TODO"
-    },
-    "date": "2022/01/22 15:29:40"
+    "beta": {
+      "version": "9.0.1-beta.0",
+      "title": "ImageGlass Kobe 9 Beta 1",
+      "description": "Rewritten app with hardware acceleration support.",
+      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.1.0",
+      "downloads": {
+        "ImageGlass_9.0.1-beta.0_x64.zip": {
+          "hashCode": "TODO",
+          "url": "TODO"
+        }
+      },
+      "date": "2022/05/03 15:29:40"
+    }
   }
 }
