@@ -1,81 +1,75 @@
 {
   "apiVersion": 1,
   "releases": {
-    "kobe": [
-      {
-        "version": "8.5.1.22",
-        "releaseType": "stable",
-        "title": "ImageGlass Kobe 8.5",
-        "description": "Supports QOI image format, fixes bugs and improves stability.",
-        "changelogUrl": "https://imageglass.org/release/imageglass-8-5-1-22-34",
-        "publishedDate": "2022/01/22 15:29:40",
-        "downloads": [
-          {
-            "architecture": "x64",
-            "extension": "msi",
-            "hashCode": "988efe9ec3db11f769240fe7b118b08ee859e973",
-            "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.msi"
-          },
-          {
-            "architecture": "x64",
-            "extension": "zip",
-            "hashCode": "a04de0d9a833c562e2871a1834dabc204d1c76ca",
-            "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.zip"
-          },
-          {
-            "architecture": "x86",
-            "extension": "msi",
-            "hashCode": "be49f886f8f81796bba872e8f0a10fd599f31b09",
-            "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.msi"
-          },
-          {
-            "architecture": "x86",
-            "extension": "zip",
-            "hashCode": "3c9a00bc5c169251021d942f578987d606a43110",
-            "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.zip"
-          }
-        ]
-      },
-      {
-        "version": "9.0.0.1",
-        "releaseType": "moon",
-        "title": "ImageGlass Kobe 9.0 beta 1",
-        "description": "Rewritten app with hardware acceleration support.",
-        "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.0.1",
-        "publishedDate": "2022/05/03 03:50:03",
-        "downloads": [
-          {
-            "architecture": "x64",
-            "extension": "zip",
-            "hashCode": "TODO",
-            "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.0.1/ImageGlass_Moon_9.0.0.1_x64.zip"
-          }
-        ]
-      }
-    ],
-    "spider": [
-      {
-        "version": "8.5.1.22",
-        "releaseType": "stable",
-        "title": "ImageGlass Spider 8.5",
-        "description": "Supports QOI image format, fixes bugs and improves stability.",
-        "changelogUrl": "https://imageglass.org/release/imageglass-8-5-1-22-34",
-        "publishedDate": "2022/01/22 15:29:40",
-        "downloads": [
-          {
-            "architecture": "x64",
-            "extension": "msi",
-            "hashCode": "00543697d862818e9294fa90d8ad68d451504156",
-            "url": "https://github.com/ImageGlass/Spider/releases/download/8.5.1.22/ImageGlass_Spider_8.5.1.22_x64.msi"
-          },
-          {
-            "architecture": "x64",
-            "extension": "zip",
-            "hashCode": "d3be95b4264a278c9f1f1d0eff4aef3bddf68339",
-            "url": "https://github.com/ImageGlass/Spider/releases/download/8.5.1.22/ImageGlass_Spider_8.5.1.22_x64.zip"
-          }
-        ]
-      }
-    ]
+    "kobe": {
+      "version": "8.5.1.22",
+      "title": "ImageGlass Kobe 8.5",
+      "description": "Supports QOI image format, fixes bugs and improves stability.",
+      "changelogUrl": "https://imageglass.org/release/imageglass-8-5-1-22-34",
+      "publishedDate": "2022/01/22 15:29:40",
+      "downloads": [
+        {
+          "architecture": "x64",
+          "extension": "msi",
+          "hashCode": "988efe9ec3db11f769240fe7b118b08ee859e973",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.msi"
+        },
+        {
+          "architecture": "x64",
+          "extension": "zip",
+          "hashCode": "a04de0d9a833c562e2871a1834dabc204d1c76ca",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.zip"
+        },
+        {
+          "architecture": "x86",
+          "extension": "msi",
+          "hashCode": "be49f886f8f81796bba872e8f0a10fd599f31b09",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.msi"
+        },
+        {
+          "architecture": "x86",
+          "extension": "zip",
+          "hashCode": "3c9a00bc5c169251021d942f578987d606a43110",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.zip"
+        }
+      ]
+    },
+    "moon": {
+      "version": "9.0.0.1",
+      "title": "ImageGlass Kobe 9.0 beta 1",
+      "description": "Rewritten app with hardware acceleration support.",
+      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.0.1",
+      "publishedDate": "2022/05/03 03:50:03",
+      "downloads": [
+        {
+          "architecture": "x64",
+          "extension": "zip",
+          "hashCode": "TODO",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.0.1/ImageGlass_Moon_9.0.0.1_x64.zip"
+        }
+      ]
+    },
+    "spider": {
+      "version": "8.5.1.22",
+      "releaseType": "stable",
+      "title": "ImageGlass Spider 8.5",
+      "description": "Supports QOI image format, fixes bugs and improves stability.",
+      "changelogUrl": "https://imageglass.org/release/imageglass-8-5-1-22-34",
+      "publishedDate": "2022/01/22 15:29:40",
+      "downloads": [
+        {
+          "architecture": "x64",
+          "extension": "msi",
+          "hashCode": "00543697d862818e9294fa90d8ad68d451504156",
+          "url": "https://github.com/ImageGlass/Spider/releases/download/8.5.1.22/ImageGlass_Spider_8.5.1.22_x64.msi"
+        },
+        {
+          "architecture": "x64",
+          "extension": "zip",
+          "hashCode": "d3be95b4264a278c9f1f1d0eff4aef3bddf68339",
+          "url": "https://github.com/ImageGlass/Spider/releases/download/8.5.1.22/ImageGlass_Spider_8.5.1.22_x64.zip"
+        }
+      ]
+    }
   }
 }
