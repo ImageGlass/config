@@ -37,15 +37,15 @@
     "moon": {
       "version": "9.0.1.514",
       "title": "ImageGlass Kobe 9.0 beta 1",
-      "description": "Rewritten app with hardware acceleration support.",
+      "description": "The first beta release of ImageGlass Kobe version 9, rewritten from scratch with many breaking changes, performance improvements and missing features.",
       "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.1.514",
-      "publishedDate": "2022/05/14 20:00:03",
+      "publishedDate": "2022/05/14 23:35:03",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "TODO",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.1.514/ImageGlass_Moon_9.0.1.514_x64.zip"
+          "hashCode": "db24bf1ecdff6c411e4b6dae39c654bb33172ae5",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.1.514/ImageGlass_Moon_9.0.1.514_Beta-1_x64.zip"
         }
       ]
     },
