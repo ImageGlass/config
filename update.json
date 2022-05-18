@@ -35,17 +35,17 @@
       ]
     },
     "moon": {
-      "version": "9.0.1.515",
+      "version": "9.0.1.518",
       "title": "ImageGlass Kobe 9.0 beta 1",
-      "description": "Fixed an issue leading to the error `Value cannot be null. (Parameter 'paths')` when the app does not have write permission for startup folder.",
+      "description": "Fixed an issue leading to the error `Value cannot be null. (Parameter 'paths')` where the app cannot find Codecs folder.",
       "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.1.514",
       "publishedDate": "2022/05/15 12:46:10",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "B5AA4627B96CD9A6C3F778B5028EE4D4753FEC53",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.1.514/ImageGlass_Moon_9.0.1.515_Beta-1_x64.zip"
+          "hashCode": "BF9F2BD48989BDA7E7700BA5A0D495EDCE83F257",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.1.514/ImageGlass_Moon_9.0.1.518_Beta-1_x64.zip"
         }
       ]
     },
