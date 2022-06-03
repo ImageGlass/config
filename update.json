@@ -4,7 +4,7 @@
     "kobe": {
       "version": "8.6.6.6",
       "title": "ImageGlass Kobe 8.6",
-      "description": "Improves color management, supports WEPB animated format, new Share feature and panning settings.",
+      "description": "Improves color management, supports WEBP animated format, new Share feature and panning settings.",
       "changelogUrl": "https://imageglass.org/release/imageglass-8-6-6-6-36",
       "publishedDate": "2022/06/03 20:45:02",
       "downloads": [
@@ -53,7 +53,7 @@
       "version": "8.6.6.6",
       "releaseType": "stable",
       "title": "ImageGlass Spider 8.6",
-      "description": "Improves color management, supports WEPB animated format, new Share feature and panning settings.",
+      "description": "Improves color management, supports WEBP animated format, new Share feature and panning settings.",
       "changelogUrl": "https://imageglass.org/release/imageglass-8-6-6-6-36",
       "publishedDate": "2022/06/03 20:49:21",
       "downloads": [
