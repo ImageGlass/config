@@ -35,17 +35,17 @@
       ]
     },
     "moon": {
-      "version": "9.0.1.518",
-      "title": "ImageGlass Kobe 9.0 beta 1",
-      "description": "Fixed an issue leading to the error `Value cannot be null. (Parameter 'paths')` where the app cannot find Codecs folder.",
-      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.1.514",
-      "publishedDate": "2022/05/15 12:46:10",
+      "version": "9.0.2.904",
+      "title": "ImageGlass Kobe 9.0 beta 2",
+      "description": "- Supports hardware acceleration for transparent image formats\r\n- Smooth zooming by keyboard\r\n- Mouse action customization\r\n- Faster thumbnails bar\r\n- Adds more features from version 8",
+      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.2.904",
+      "publishedDate": "2022/09/04 23:05:48",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "BF9F2BD48989BDA7E7700BA5A0D495EDCE83F257",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.1.514/ImageGlass_Moon_9.0.1.518_Beta-1_x64.zip"
+          "hashCode": "0488E3B86564CE1BA8725354C56F1B991604E374",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.2.904/ImageGlass_Moon_9.0.2.904_Beta-2_x64.zip"
         }
       ]
     },
