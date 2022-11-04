@@ -2,35 +2,35 @@
   "apiVersion": 1,
   "releases": {
     "kobe": {
-      "version": "8.7.10.26",
+      "version": "8.7.11.6",
       "title": "ImageGlass Kobe 8.7",
-      "description": "Improves slideshow and window fit mode, and fixes UI bugs.",
-      "changelogUrl": "https://imageglass.org/release/imageglass-8-7-10-26-38",
+      "description": "Supports dark mode for title bar, improves slideshow and window fit mode, and fixes UI bugs.",
+      "changelogUrl": "https://imageglass.org/release/imageglass-8-7-11-6-38",
       "publishedDate": "2022/10/16 08:29:22",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "msi",
-          "hashCode": "2DD25B7D859FD9192BDC1E34FC966C3BDA4A930E",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x64.msi"
+          "hashCode": "B3ACE84D1F52C3A1F85069513083EE9771453CA1",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x64.msi"
         },
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "04362969E66F33867F5D7A3878CF3B52250CA4A5",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x64.zip"
+          "hashCode": "5B70095CEE9639863B2BA78A47B6287F5CFCBCB3",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x64.zip"
         },
         {
           "architecture": "x86",
           "extension": "msi",
-          "hashCode": "9CABC6059A98FE0BF905A797A5C7625C808BDDCA",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x86.msi"
+          "hashCode": "5B70095CEE9639863B2BA78A47B6287F5CFCBCB3",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x86.msi"
         },
         {
           "architecture": "x86",
           "extension": "zip",
-          "hashCode": "AE2003E45FF4513403BFBCC58ED45DDCD4F5365C",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x86.zip"
+          "hashCode": "0A4FCBB621D7CB2DFB7A49346C4FA09C635C2B05",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x86.zip"
         }
       ]
     },
@@ -50,35 +50,35 @@
       ]
     },
     "spider": {
-      "version": "8.7.10.26",
+      "version": "8.7.11.6",
       "title": "ImageGlass Kobe 8.7",
-      "description": "Improves slideshow and window fit mode, and fixes UI bugs.",
-      "changelogUrl": "https://imageglass.org/release/imageglass-8-7-10-26-38",
+      "description": "Supports dark mode for title bar, improves slideshow and window fit mode, and fixes UI bugs.",
+      "changelogUrl": "https://imageglass.org/release/imageglass-8-7-11-6-38",
       "publishedDate": "2022/10/16 08:29:22",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "msi",
-          "hashCode": "2DD25B7D859FD9192BDC1E34FC966C3BDA4A930E",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x64.msi"
+          "hashCode": "B3ACE84D1F52C3A1F85069513083EE9771453CA1",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x64.msi"
         },
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "04362969E66F33867F5D7A3878CF3B52250CA4A5",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x64.zip"
+          "hashCode": "5B70095CEE9639863B2BA78A47B6287F5CFCBCB3",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x64.zip"
         },
         {
           "architecture": "x86",
           "extension": "msi",
-          "hashCode": "9CABC6059A98FE0BF905A797A5C7625C808BDDCA",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x86.msi"
+          "hashCode": "5B70095CEE9639863B2BA78A47B6287F5CFCBCB3",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x86.msi"
         },
         {
           "architecture": "x86",
           "extension": "zip",
-          "hashCode": "AE2003E45FF4513403BFBCC58ED45DDCD4F5365C",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.10.26/ImageGlass_Kobe_8.7.10.26_x86.zip"
+          "hashCode": "0A4FCBB621D7CB2DFB7A49346C4FA09C635C2B05",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.7.11.6/ImageGlass_Kobe_8.7.11.6_x86.zip"
         }
       ]
     }
