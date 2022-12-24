@@ -35,17 +35,17 @@
       ]
     },
     "moon": {
-      "version": "9.0.2.904",
-      "title": "ImageGlass Kobe 9.0 beta 2",
-      "description": "- Supports hardware acceleration for transparent image formats\r\n- Smooth zooming by keyboard\r\n- Mouse action customization\r\n- Faster thumbnails bar\r\n- Adds more features from version 8",
-      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.2.904",
-      "publishedDate": "2022/09/04 23:05:48",
+      "version": "9.0.3.1225",
+      "title": "ImageGlass Kobe 9.0 beta 3",
+      "description": "- A new beautiful, modern UI with transparent backdrop support for Windows 11 22H2\r\n- Smooth zooming, panning\r\n- The new Slideshow mode\r\n- The new Crop tool\r\n- Shows image preview while it's being loaded\r\n- Adds more features from version 8",
+      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.3.1225",
+      "publishedDate": "2022/12/24 13:12:30",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "0488E3B86564CE1BA8725354C56F1B991604E374",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.2.904/ImageGlass_Moon_9.0.2.904_Beta-2_x64.zip"
+          "hashCode": "A0783B13DEA7499B03A7FCCDCBD29DF386EC3123",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.3.1225/ImageGlass_Moon_9.0.3.1225_Beta-3_x64.zip"
         }
       ]
     },
