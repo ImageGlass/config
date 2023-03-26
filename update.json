@@ -4,7 +4,7 @@
     "kobe": {
       "version": "8.7.11.6",
       "title": "ImageGlass Kobe 8.7",
-      "description": "Supports dark mode for title bar, improves slideshow and window fit mode, and fixes UI bugs.\r\n\r\nStarting from April 1st, 2023, it is required to register for a free license to use ImageGlass for non-personal purposes.\r\nPlease see more details at https://imageglass.org/license.",
+      "description": "Supports dark mode for title bar, improves slideshow and window fit mode, and fixes UI bugs.",
       "changelogUrl": "https://imageglass.org/release/imageglass-8-7-11-6-38",
       "publishedDate": "2022/10/16 08:29:22",
       "downloads": [
@@ -37,7 +37,7 @@
     "moon": {
       "version": "9.0.3.1225",
       "title": "ImageGlass Kobe 9.0 beta 3",
-      "description": "- A new beautiful, modern UI with transparent backdrop support for Windows 11 22H2\r\n- Smooth zooming, panning\r\n- The new Slideshow mode\r\n- The new Crop tool\r\n- Shows image preview while it's being loaded\r\n- Adds more features from version 8\r\n\r\nStarting from April 1st, 2023, it is required to register for a free license to use ImageGlass for non-personal purposes.\r\nPlease see more details at https://imageglass.org/license.",
+      "description": "- A new beautiful, modern UI with transparent backdrop support for Windows 11 22H2\r\n- Smooth zooming, panning\r\n- The new Slideshow mode\r\n- The new Crop tool\r\n- Shows image preview while it's being loaded\r\n- Adds more features from version 8",
       "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.3.1225",
       "publishedDate": "2022/12/24 13:12:30",
       "downloads": [
@@ -52,7 +52,7 @@
     "spider": {
       "version": "8.7.11.6",
       "title": "ImageGlass Kobe 8.7",
-      "description": "Supports dark mode for title bar, improves slideshow and window fit mode, and fixes UI bugs.\r\n\r\nStarting from April 1st, 2023, it is required to register for a free license to use ImageGlass for non-personal purposes.\r\nPlease see more details at https://imageglass.org/license.",
+      "description": "Supports dark mode for title bar, improves slideshow and window fit mode, and fixes UI bugs.",
       "changelogUrl": "https://imageglass.org/release/imageglass-8-7-11-6-38",
       "publishedDate": "2022/10/16 08:29:22",
       "downloads": [
