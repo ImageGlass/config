@@ -2,7 +2,7 @@
   "apiVersion": 1,
   "releases": {
     "kobe": {
-      "version": "8.8.3.28",
+      "version": "8.8.4.4",
       "title": "ImageGlass Kobe 8.8",
       "description": "- Faster loading times for animated WebP format.\r\n- Enable Unicode support for Exiftool to read metadata and specify the executable path.\r\n- Change the image saving behavior to prevent images from being corrupted.\r\n- Update End User License Agreement (EULA) for non-personal purposes.\r\n\r\nStarting from version 8.8, if you intend to use ImageGlass Classic at your place of business or for commercial purposes, it's recommended (but not required) to register at https://imageglass.org/license. You can find more information about the End User License Agreement (EULA) update at https://imageglass.org/license.",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-8-82",
@@ -11,26 +11,26 @@
         {
           "architecture": "x64",
           "extension": "msi",
-          "hashCode": "9DFFA4CF4690C2D5D4F87E976DD4E7333FFC4848",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.msi"
+          "hashCode": "2B8C0D6B8A990A29E3B87C683BE0383DCE130653",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x64.msi"
         },
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "ABA769BF454B16053BE062306B142660E10EAE98",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.zip"
+          "hashCode": "A4ECA3122C893F7EBEE3EC2AABF5E5F7E8A6F404",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x64.zip"
         },
         {
           "architecture": "x86",
           "extension": "msi",
-          "hashCode": "748A9BFF8C8AD85E7D616060F0160B1A7C6F6FA4",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.msi"
+          "hashCode": "7A70FAD060AC55339C491A2E1B7CD48DD8191749",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x86.msi"
         },
         {
           "architecture": "x86",
           "extension": "zip",
-          "hashCode": "AFF015F6B8DA5DB945BB4BD3B51225A184DD371E",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.zip"
+          "hashCode": "68DC339943102C1F2FE6B8BF0FEBDB0C461EDAC1",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x86.zip"
         }
       ]
     },
@@ -50,7 +50,7 @@
       ]
     },
     "spider": {
-      "version": "8.8.3.28",
+      "version": "8.8.4.4",
       "title": "ImageGlass Kobe 8.8",
       "description": "- Faster loading times for animated WebP format.\r\n- Enable Unicode support for Exiftool to read metadata and specify the executable path.\r\n- Change the image saving behavior to prevent images from being corrupted.\r\n- Update End User License Agreement (EULA) for non-personal purposes.\r\n\r\nStarting from version 8.8, if you intend to use ImageGlass Classic at your place of business or for commercial purposes, it's recommended (but not required) to register at https://imageglass.org/license. You can find more information about the End User License Agreement (EULA) update at https://imageglass.org/license.",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-8-82",
@@ -59,26 +59,26 @@
         {
           "architecture": "x64",
           "extension": "msi",
-          "hashCode": "9DFFA4CF4690C2D5D4F87E976DD4E7333FFC4848",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.msi"
+          "hashCode": "2B8C0D6B8A990A29E3B87C683BE0383DCE130653",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x64.msi"
         },
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "ABA769BF454B16053BE062306B142660E10EAE98",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.zip"
+          "hashCode": "A4ECA3122C893F7EBEE3EC2AABF5E5F7E8A6F404",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x64.zip"
         },
         {
           "architecture": "x86",
           "extension": "msi",
-          "hashCode": "748A9BFF8C8AD85E7D616060F0160B1A7C6F6FA4",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.msi"
+          "hashCode": "7A70FAD060AC55339C491A2E1B7CD48DD8191749",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x86.msi"
         },
         {
           "architecture": "x86",
           "extension": "zip",
-          "hashCode": "AFF015F6B8DA5DB945BB4BD3B51225A184DD371E",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.zip"
+          "hashCode": "68DC339943102C1F2FE6B8BF0FEBDB0C461EDAC1",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x86.zip"
         }
       ]
     }
