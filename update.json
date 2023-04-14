@@ -37,8 +37,8 @@
     "moon": {
       "version": "9.0.4.416",
       "title": "ImageGlass Kobe 9.0 beta 4",
-      "description": "🔴 Updated new minimum requirements:\r\n- .NET Desktop runtime 6\r\n- Webview2 Runtime 64-bit\r\n- Windows 10 64-bit\r\n\r\n- Improved app startup time and overall performance\r\n- Added support for hardware acceleration for animated formats (GIF, WEBP, APNG, ...)\r\n- Introduce ExifGlass - a new EXIF metadata viewing tool\r\n- Added support for integrating thrid-party softwares with ImageGlass\r\n- New Color picker, Page navigation tool\r\n- Added support for layout customization, Frameless, Window Fit\r\n\r\nStarting from version 8.8, if you intend to use ImageGlass Classic at your place of business or for commercial purposes, it's recommended (but not required) to register at https://imageglass.org/license. You can find more information about the End User License Agreement (EULA) update at https://imageglass.org/license.",
-      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.4.416",
+      "description": "🔴 Updated new minimum requirements:\r\n- .NET Desktop runtime 6\r\n- Webview2 Runtime 64-bit\r\n- Windows 10 64-bit\r\n\r\n- Improved app startup time and overall performance\r\n- Added support for hardware acceleration for animated formats (GIF, WEBP, APNG, ...)\r\n- Introduce ExifGlass - a new EXIF metadata viewing tool\r\n- Added support for integrating third-party softwares with ImageGlass\r\n- New Color picker, Page navigation tool\r\n- Added support for layout customization, Frameless, Window Fit\r\n\r\nStarting from version 8.8, if you intend to use ImageGlass Classic at your place of business or for commercial purposes, it's recommended (but not required) to register at https://imageglass.org/license. You can find more information about the End User License Agreement (EULA) update at https://imageglass.org/license.",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-beta-4-83",
       "publishedDate": "2023/04/15 12:12:30",
       "downloads": [
         {
