@@ -35,17 +35,17 @@
       ]
     },
     "moon": {
-      "version": "9.0.3.1225",
-      "title": "ImageGlass Kobe 9.0 beta 3",
-      "description": "- A new beautiful, modern UI with transparent backdrop support for Windows 11 22H2\r\n- Smooth zooming, panning\r\n- The new Slideshow mode\r\n- The new Crop tool\r\n- Shows image preview while it's being loaded\r\n- Adds more features from version 8\r\n\r\nStarting from version 8.8, if you intend to use ImageGlass Classic at your place of business or for commercial purposes, it's recommended (but not required) to register at https://imageglass.org/license. You can find more information about the End User License Agreement (EULA) update at https://imageglass.org/license.",
-      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.3.1225",
-      "publishedDate": "2022/12/24 13:12:30",
+      "version": "9.0.4.416",
+      "title": "ImageGlass Kobe 9.0 beta 4",
+      "description": "🔴 Updated new minimum requirements:\r\n- .NET Desktop runtime 6\r\n- Webview2 Runtime 64-bit\r\n- Windows 10 64-bit\r\n\r\n- Improved app startup time and overall performance\r\n- Added support for hardware acceleration for animated formats (GIF, WEBP, APNG, ...)\r\n- Introduce ExifGlass - a new EXIF metadata viewing tool\r\n- Added support for integrating thrid-party softwares with ImageGlass\r\n- New Color picker, Page navigation tool\r\n- Added support for layout customization, Frameless, Window Fit\r\n\r\nStarting from version 8.8, if you intend to use ImageGlass Classic at your place of business or for commercial purposes, it's recommended (but not required) to register at https://imageglass.org/license. You can find more information about the End User License Agreement (EULA) update at https://imageglass.org/license.",
+      "changelogUrl": "https://github.com/d2phap/ImageGlass/releases/tag/9.0.4.416",
+      "publishedDate": "2023/04/15 12:12:30",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "A0783B13DEA7499B03A7FCCDCBD29DF386EC3123",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.3.1225/ImageGlass_Moon_9.0.3.1225_Beta-3_x64.zip"
+          "hashCode": "CCE6542B9952779972A50FF350984A6961A097D2",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.4.416/ImageGlass_Moon_9.0.4.416_Beta-4_x64_net6.zip"
         }
       ]
     },
