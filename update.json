@@ -37,7 +37,7 @@
     "moon": {
       "version": "9.0.5.726",
       "title": "ImageGlass Kobe 9.0 beta 5",
-      "description": "We added an intuitive user interface for user settings; added support for touch gestures and enhanced SVG viewing such as scaling SVG, animated SVG support, custom zoom levels, and more.",
+      "description": "We added an intuitive user interface for app settings; added support for touch gestures; enhanced SVG viewing such as scaling SVG, animated SVG support, custom zoom levels, and more.",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-beta-5-85",
       "publishedDate": "2023/07/25 20:35:10",
       "downloads": [
