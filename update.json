@@ -2,35 +2,35 @@
   "apiVersion": 1,
   "releases": {
     "kobe": {
-      "version": "8.9.6.9",
-      "title": "ImageGlass Kobe 8.9",
-      "description": "ImageGlass 8.9 adds support for reading grayscale DNG images and fixes various bugs for NEF, TIF images.",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-9-84",
-      "publishedDate": "2023/06/07 13:14:05",
+      "version": "8.10.9.27",
+      "title": "ImageGlass Kobe 8.10",
+      "description": "ImageGlass 8.10 is an important update to fix critical WEBP vulnerability (CVE-2023-4863).",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-10-86",
+      "publishedDate": "2023/09/26 17:45:05",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "msi",
-          "hashCode": "D0910DCAF1466FC06014B16BAF7F6D694F0193CB",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x64.msi"
+          "hashCode": "61EF57B22ED21CCCD8454D8FC9A402A17D8DC168",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.msi"
         },
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "208E6532103CAA7159A40418155B7A06DDDEEC8F",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x64.zip"
+          "hashCode": "0AF64D67E4095E914A97B6056AC34843098FA5FB",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.zip"
         },
         {
           "architecture": "x86",
           "extension": "msi",
-          "hashCode": "0E9F35FF1F4F31DBAB87C8B06892B99C4307AC03",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x86.msi"
+          "hashCode": "6FD5819BDF1B5BAD7111EDF25BF4C3B88ED5185B",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.msi"
         },
         {
           "architecture": "x86",
           "extension": "zip",
-          "hashCode": "B48CF13A99D8534663403EBF94FB92622D581890",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x86.zip"
+          "hashCode": "5DCECC9CC746DFB2B3793F4A1B0BB02F5454C4E4",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.zip"
         }
       ]
     },
@@ -50,35 +50,35 @@
       ]
     },
     "spider": {
-      "version": "8.9.6.9",
-      "title": "ImageGlass Kobe 8.9",
-      "description": "ImageGlass 8.9 adds support for reading grayscale DNG images and fixes various bugs for NEF, TIF images.",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-9-84",
-      "publishedDate": "2023/06/07 13:14:05",
+      "version": "8.10.9.27",
+      "title": "ImageGlass Kobe 8.10",
+      "description": "ImageGlass 8.10 is an important update to fix critical WEBP vulnerability (CVE-2023-4863).",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-10-86",
+      "publishedDate": "2023/09/26 17:45:05",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "msi",
-          "hashCode": "D0910DCAF1466FC06014B16BAF7F6D694F0193CB",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x64.msi"
+          "hashCode": "61EF57B22ED21CCCD8454D8FC9A402A17D8DC168",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.msi"
         },
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "208E6532103CAA7159A40418155B7A06DDDEEC8F",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x64.zip"
+          "hashCode": "0AF64D67E4095E914A97B6056AC34843098FA5FB",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.zip"
         },
         {
           "architecture": "x86",
           "extension": "msi",
-          "hashCode": "0E9F35FF1F4F31DBAB87C8B06892B99C4307AC03",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x86.msi"
+          "hashCode": "6FD5819BDF1B5BAD7111EDF25BF4C3B88ED5185B",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.msi"
         },
         {
           "architecture": "x86",
           "extension": "zip",
-          "hashCode": "B48CF13A99D8534663403EBF94FB92622D581890",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x86.zip"
+          "hashCode": "5DCECC9CC746DFB2B3793F4A1B0BB02F5454C4E4",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.zip"
         }
       ]
     }
