@@ -35,17 +35,17 @@
       ]
     },
     "moon": {
-      "version": "9.0.5.726",
-      "title": "ImageGlass Kobe 9.0 beta 5",
+      "version": "9.0.6.1008",
+      "title": "ImageGlass 9.0 RC",
       "description": "We added an intuitive user interface for app settings; added support for touch gestures; enhanced SVG viewing such as scaling SVG, animated SVG support, custom zoom levels, and more.",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-beta-5-85",
-      "publishedDate": "2023/07/25 20:35:10",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-rc-87",
+      "publishedDate": "2023/10/07 20:12:45",
       "downloads": [
         {
           "architecture": "x64",
           "extension": "zip",
-          "hashCode": "1545D69391F99686E0189CAC0549B891C1D14ED5",
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.5.726/ImageGlass_Moon_9.0.5.726_Beta-5_x64_net7.zip"
+          "hashCode": "8670E00C18780AD46F31E5587702353E3F8535CD",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.6.1008/ImageGlass_Moon_9.0.6.1008_RC_x64_net8.zip"
         }
       ]
     },
