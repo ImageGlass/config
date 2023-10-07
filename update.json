@@ -37,7 +37,7 @@
     "moon": {
       "version": "9.0.6.1008",
       "title": "ImageGlass 9.0 RC",
-      "description": "We added an intuitive user interface for app settings; added support for touch gestures; enhanced SVG viewing such as scaling SVG, animated SVG support, custom zoom levels, and more.",
+      "description": "Introduces the new Quick Setup dialog, adds more UI for app settings and fixes bugs including WebP vulnerability (CVE-2023-4863)",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-rc-87",
       "publishedDate": "2023/10/07 20:12:45",
       "downloads": [
